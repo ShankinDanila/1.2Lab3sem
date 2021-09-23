@@ -1,5 +1,4 @@
 #include "include/Strophoid.h"
-
 #include "include/Errors.h"
 #include <cmath>
 
